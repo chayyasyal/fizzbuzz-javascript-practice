@@ -7,4 +7,3 @@ Aim of FizzBuzz task:
 
 Here I was hoping to show that I could enter a function, a method etc using Jasmine. I have shown evidence of correct formatting
 which includes camel casing and creating code which adheres to JavaScript conventions.
-Link: file:///Users/syalc01/Documents/makers-academy%20/week-5/fizzBuzz/jasmine-standalone-2.8.0/SpecRunner.html 
