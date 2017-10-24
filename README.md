@@ -6,5 +6,4 @@ The test passes and opens as expected in browser when typing "open SpecRunner.ht
 Aim of FizzBuzz task:
 
 Here I was hoping to show that I could enter a function, a method etc using Jasmine. I have shown evidence of correct formatting
-which includes camel casing and creating code which adheres to JavaScript conventions.
-
+which includes camel casing, using the 'function' keyword and creating code which both works successfully and adheres to JavaScript conventions.
